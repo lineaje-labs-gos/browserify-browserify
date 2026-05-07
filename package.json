@@ -1,6 +1,6 @@
 {
   "name": "browserify",
-  "version": "16.5.2",
+  "version": "16.5.2-lineaje-01",
   "description": "browser-side require() the node way",
   "main": "index.js",
   "bin": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/browserify/browserify.git"
+    "url": "https://github.com/lineaje-labs-gos/browserify-browserify"
   },
   "engines": {
     "node": ">= 0.8"
@@ -95,5 +95,11 @@
   "scripts": {
     "test": "tap test/*.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ]
 }
