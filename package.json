@@ -1,6 +1,6 @@
 {
   "name": "browserify",
-  "version": "16.5.2-lineaje-01",
+  "version": "16.5.2-lineaje-02",
   "description": "browser-side require() the node way",
   "main": "index.js",
   "bin": {
